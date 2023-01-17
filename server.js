@@ -1,4 +1,4 @@
-const express = require('express');
+const express = require('expres');
 const app = express();
 app.use(express.static('public')); 
 
